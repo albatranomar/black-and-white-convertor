@@ -1,0 +1,15 @@
+{
+  "name": "discord-to-black-and-white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "albatranomar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.10.3",
+    "jimp": "^0.16.1"
+  }
+}
